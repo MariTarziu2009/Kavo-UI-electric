@@ -107,15 +107,15 @@ local themeStyles = {
     },
     Synapse = {
         SchemeColor = Color3.fromRGB(46, 48, 43),
-        Background = Color3.fromRGB(40, 40, 40),
+        Background = Color3.fromRGB(39, 39, 39),
         Header = Color3.fromRGB(36, 38, 35),
-        TextColor = Color3.fromRGB(255,255,255),
+        TextColor = Color3.fromRGB(152, 99, 53),
         ElementColor = Color3.fromRGB(24, 24, 24)
     },
     Serpent = {
         SchemeColor = Color3.fromRGB(0, 166, 58),
         Background = Color3.fromRGB(31, 41, 43),
-        Header = Color3.fromRGB(22, 29, 31),
+        Header = Color3.fromRGB(179, 0, 255),
         TextColor = Color3.fromRGB(255,255,255),
         ElementColor = Color3.fromRGB(22, 29, 31)
     }
